@@ -24,8 +24,8 @@ This repository includes machine learning models and projects that I developed d
 
 ### Task 2: Restaurant Recommendation System
 
-- **Description**: Created a restaurant recommendation system based on user preferences using content-based filtering.
-- **Techniques Used**: Content-Based Filtering
+- **Description**: Created a restaurant recommendation system based on Cusisine using content-based filtering method.
+- **Techniques Used**: Content-Based Filtering, TF-Idf
 - **Directory**: `restaurant-recommendation-system`
 
 ## Contact
