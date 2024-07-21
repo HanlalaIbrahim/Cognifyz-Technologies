@@ -8,6 +8,7 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
 - [Projects](#projects)
   - [Task 1: Restaurant Rating Prediction](#task-1-restaurant-rating-prediction)
   - [Task 2: Restaurant Recommendation System](#task-2-restaurant-recommendation-system)
+  - [Task 3: Restaurant Cuisine Classification](#task-3-restaurant-cuisine-classification)
 - [Contact](#contact)
 
 ## Introduction
@@ -27,6 +28,12 @@ This repository includes machine learning models and projects that I developed d
 - **Description**: Created a restaurant recommendation system based on Cusisine using content-based filtering method.
 - **Techniques Used**: Content-Based Filtering, TF-Idf
 - **Directory**: `restaurant-recommendation-system`
+
+### Task 3: Restaurant Cuisine Classification
+
+- **Description**: Developed a machine learning model to classify restaurants based on their cuisines.
+- **Techniques Used**: Random Forest
+- **Directory**: `restaurant-cuisine-classification`
 
 ## Contact
 
